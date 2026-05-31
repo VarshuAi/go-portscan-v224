@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (WEB).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/go-portscan-v224.git
+git clone https://github.com/VarshuAi/go-portscan-v224.git
 cd go-portscan-v224
 ```
 Run the master script or compile the executable entry point.
