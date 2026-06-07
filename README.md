@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  High-performance parallel port tester checking system firewall blocks. [Variant 224 using WEB with Matcha theme]
+  name: go-portscan-v224 version: 1.0 type: Repository author: VarshuAi description: >   High-performance parallel port tester checking system firewall blocks. [Variant 224 using WEB with Matcha theme] primary_tech: HTML
 primary_tech: HTML
 ```
 
